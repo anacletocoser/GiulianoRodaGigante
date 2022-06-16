@@ -20,5 +20,10 @@ namespace RodaGigante
             Nome = nome;
             Idade = idade;
         }
+
+        public Crianca()
+        {
+
+        }
     }
 }

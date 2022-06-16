@@ -1,0 +1,3 @@
+https://medium.com/allbarbos/gitignore-n%C3%A3o-funciona-o-que-fazer-67e497bc151a
+
+comando >> git rm -r --cached <Nome do Arquivo ou pasta>
